@@ -1,7 +1,6 @@
 ### Here's what I'm working on 👋
 
-
-Here are some ideas to get you started:
+Here are some topics:
 
 - 🔭 I’m currently working on a booking system for a Party Tour Website...
 - 🌱 I’m currently learning how to make react native apps...
