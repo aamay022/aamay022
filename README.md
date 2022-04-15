@@ -9,8 +9,18 @@ Here are some topics:
 - 💬 Ask me about Bloomtech ...
 - 📫 How to reach me: anthony.amaya246@gmail.com or aamay022@fiu.edu...
 - ⚡ Fun fact: I'm a soccer fanatic and I love the outdoors...
-- ---
-![https://github.com/nomi811/clickable-icons-to-readme](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)
-![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)
-![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)]
----
+
+Reach me @ ...
+
+[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][3]
+
+[3]: https://www.linkedin.com/in/anthony-amaya-web/
+
+Skills ...
+
+![5968292](https://user-images.githubusercontent.com/80369725/163632366-ef1126de-6ea5-4f16-bb82-677af7fcf0bf.png)
+![919851](https://user-images.githubusercontent.com/80369725/163632368-cf6d1ec7-4fe4-45ba-a6a8-7d0ebcdbe0cd.png)
+![919825](https://user-images.githubusercontent.com/80369725/163632369-0acbba34-203a-4203-9eaf-589ddb27c55c.png)
+![5968342](https://user-images.githubusercontent.com/80369725/163632370-ca611d14-a6ff-4bce-8617-72caf415fc4a.png)
+![4248443](https://user-images.githubusercontent.com/80369725/163632371-ac731384-5de4-49a5-8af8-15f46911b896.png)
+![919853](https://user-images.githubusercontent.com/80369725/163632372-d8235c8d-f5f0-4f2c-856b-090fbc34b317.png)
